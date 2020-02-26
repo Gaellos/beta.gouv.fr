@@ -1,5 +1,5 @@
 ---
-fullname: Gaelle Toledano
+fullname: Gaëlle Toledano
 role: Intrapreneuse
 missions:
   - end: '2020-12-31'
